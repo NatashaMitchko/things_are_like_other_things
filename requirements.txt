@@ -2,7 +2,7 @@ absl-py==0.7.0
 alembic==1.0.7
 astor==0.7.1
 bsddb3==6.2.6
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 future==0.17.1
 gast==0.2.2
